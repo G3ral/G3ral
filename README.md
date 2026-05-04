@@ -30,8 +30,12 @@ Aprender y compartir conocimientos en programación y tecnología.  Resolver des
 </div>
 
 ## Las estadisticas del repositorio
-![Geraldy Ibarra' GitHub stats](https://github-readme-stats.vercel.app/api?username=G3ral&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G3ral&layout=compact&theme=dark)
-
+<p align="center">
+<a href="https://github.com/G3ral">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=G3ral&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=G3ral&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 <br/>  
 
